@@ -1,5 +1,6 @@
 # Wipro-PBL-JAVA-2020-by-JB
-Wipro's PBL app all assignment &amp; mini projects for JAVA stream 2020
+Complete Pack
+Wipro's PBL app's all hands-on,assignment,logic building program, mini projects for JAVA stream 2020
 
 N.B:- These zips contains "src" folder of the hands-on/mini-project. i.e only source folder is given.
 
